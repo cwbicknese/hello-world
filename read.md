@@ -29,18 +29,15 @@ Once logged in as a hotel owner, you will be able to see your hotel(s) in a list
 its information. To add a new hotel, click the "+" button in the top right corner. Then, enter the hotel's information, and the hotel
 will be added to the application's data.
 
-Software Operations Specialists
+Credits
 ---
-Robbie
-
-Flora
-
-Allen
-
-Alex
-
-Chris
+Software Operations Specialists consists of:
+* Robbie
+* Flora
+* Allen
+* Alex
+* Chris
 
 Built with
 ---
-IntelliJ
+IntelliJ IDEA
