@@ -32,11 +32,11 @@ will be added to the application's data.
 Credits
 ---
 Software Operations Specialists consists of:
-* Robbie
-* Flora
-* Allen
-* Alex
-* Chris
+* Robbie Darrow
+* Flora Pierre
+* Allen Telson
+* Alex Sanchez
+* Chris Bicknese
 
 Built with
 ---
