@@ -34,8 +34,8 @@ Credits
 Software Operations Specialists consists of:
 * Robbie Darrow
 * Flora Pierre
-* Allen Telson
 * Alex Sanchez
+* Allen Telson
 * Chris Bicknese
 
 Built with
