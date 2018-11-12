@@ -3,7 +3,7 @@ SOS Hotel Search
 
 Description
 ---
-This application allows for customers to search for a hotel and make reservations, and for hotel owners to add their own 
+This application allows for customers to search for the perfect hotel and make reservations, and for hotel owners to add their own 
 hotels to the data.
 
 Installation
