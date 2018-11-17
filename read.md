@@ -22,8 +22,8 @@ hotels along with a map displaying those hotels. You may click the button at the
 price, location, and availability. Click on a hotel, and you can see more information about it. Click "Book Hotel", and you will be able to enter your payment information to complete the reservation. Once your reservation is made, you will be given a confrmation message.
 
 **Hotel Owner Usage:**
-/*
-Once logged in as a hotel owner, you will be able to see your hotel(s) in a list and on a map. Click on an existing hotel to edit
+
+/* Once logged in as a hotel owner, you will be able to see your hotel(s) in a list and on a map. Click on an existing hotel to edit
 its information. To add a new hotel, click the "+" button in the top right corner. Then, enter the hotel's information, and the hotel
 will be added to the application's data.*/
 
