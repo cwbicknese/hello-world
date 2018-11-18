@@ -3,7 +3,7 @@ SOS Hotel Search
 
 Description
 ---
-SOS Hotel Search is a java-based application that allows users to find the right hotel to suit their needs and make reservations. It also allows hotel owners to add their own hotels to the data.
+SOS Hotel Search is a java-based application that allows users to find the right hotel to suit their needs. There are two types of users: hotel searchers and hotel owners. Hotel searchers can look for a hotel and make a reservation. Hotel owners can add their own hotel to the data.
 
 Installation
 ---
